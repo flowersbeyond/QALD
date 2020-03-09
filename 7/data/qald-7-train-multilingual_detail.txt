@@ -1,0 +1,57 @@
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["1863-07-03"], "id": 0}
+{"diff_type": "NEW_ANS_INCREASED", "right_only": ["http://dbpedia.org/resource/the_lion_king_jr_(musical)"], "id": 1}
+{"diff_type": "OTHERS", "left_only": ["29.0"], "right_only": ["15.0"], "id": 2}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/rembrandt"], "id": 12}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["50035"], "id": 14}
+{"diff_type": "NEW_ANS_DECREASED", "left_only": ["http://dbpedia.org/resource/cheryl_hines"], "id": 15}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/frank_young_(basketball)"], "id": 23}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/ian_bliss", "http://dbpedia.org/resource/hugo_weaving"], "id": 32}
+{"diff_type": "OTHERS", "left_only": ["http://dbpedia.org/resource/england", "http://dbpedia.org/resource/greater_london", "http://dbpedia.org/resource/united_kingdom"], "right_only": ["http://dbpedia.org/resource/london"], "id": 42}
+{"diff_type": "NEW_ANS_INCREASED", "right_only": ["http://dbpedia.org/resource/george_takei", "http://dbpedia.org/resource/walter_koenig", "http://dbpedia.org/resource/james_doohan", "http://dbpedia.org/resource/nichelle_nichols", "http://dbpedia.org/resource/leonard_nimoy", "http://dbpedia.org/resource/deforest_kelley"], "id": 51}
+{"diff_type": "OTHERS", "left_only": ["http://dbpedia.org/resource/shortening", "http://dbpedia.org/resource/sodium_bicarbonate"], "right_only": ["http://dbpedia.org/resource/baking_soda", "http://dbpedia.org/resource/margarine"], "id": 52}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/tony_magnusson", "http://dbpedia.org/resource/ali_boulala"], "id": 53}
+{"diff_type": "OTHERS", "left_only": ["http://dbpedia.org/resource/almond", "http://dbpedia.org/resource/carrot"], "right_only": ["http://dbpedia.org/resource/carrots", "http://dbpedia.org/resource/almonds"], "id": 54}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/edwin_catmull"], "id": 56}
+{"diff_type": "NEW_ANS_DECREASED", "left_only": ["http://dbpedia.org/resource/tabasco_(former_state)"], "id": 73}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/ian_cairns", "http://dbpedia.org/resource/midget_farrelly"], "id": 76}
+{"diff_type": "NEW_ANS_DECREASED", "left_only": ["http://dbpedia.org/resource/hammett_(film)", "http://dbpedia.org/resource/apocalypse_now", "http://dbpedia.org/resource/captain_eo__captain_eo__1"], "id": 83}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/rodney_blake"], "id": 86}
+{"diff_type": "NEW_ANS_INCREASED", "right_only": ["1912-4-20"], "id": 90}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["bruce wayne"], "id": 92}
+{"diff_type": "OTHERS", "left_only": ["http://dbpedia.org/resource/washington_(state)"], "right_only": ["http://dbpedia.org/resource/washington_(u.s._state)"], "id": 98}
+{"diff_type": "OTHERS", "left_only": ["true"], "right_only": ["false"], "id": 100}
+{"diff_type": "NEW_ANS_INCREASED", "right_only": ["http://dbpedia.org/resource/a_world_at_war"], "id": 102}
+{"diff_type": "OTHERS", "left_only": ["http://dbpedia.org/resource/siddharthanagar"], "right_only": ["http://dbpedia.org/resource/bhairahawa"], "id": 104}
+{"diff_type": "OTHERS", "left_only": ["http://dbpedia.org/resource/indian_railways"], "right_only": ["http://dbpedia.org/resource/railway_board"], "id": 105}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/indigo"], "id": 106}
+{"diff_type": "OTHERS", "left_only": ["http://dbpedia.org/resource/karachi"], "right_only": ["http://dbpedia.org/resource/carei"], "id": 107}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/ernie_pinkney"], "id": 116}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/george_vi"], "id": 131}
+{"diff_type": "NEW_ANS_INCREASED", "right_only": ["http://dbpedia.org/resource/brazilian_merganser", "http://dbpedia.org/resource/townsend's_shearwater", "http://dbpedia.org/resource/djibouti_francolin", "http://dbpedia.org/resource/christmas_frigatebird", "http://dbpedia.org/resource/white-eyed_river_martin"], "id": 132}
+{"diff_type": "OTHERS", "left_only": ["http://dbpedia.org/resource/battle_of_fwelia", "http://dbpedia.org/resource/battle_of_talifeh", "http://dbpedia.org/resource/battle_of_aba_el_lissan", "http://dbpedia.org/resource/battle_of_deraa", "http://dbpedia.org/resource/capture_of_damascus_(1918)"], "right_only": ["http://dbpedia.org/resource/capture_of_damascus"], "id": 134}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/belgrade"], "id": 140}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/united_states"], "id": 141}
+{"diff_type": "NEW_ANS_INCREASED", "right_only": ["http://dbpedia.org/resource/the_greatest:_my_own_story"], "id": 143}
+{"diff_type": "OTHERS", "left_only": ["http://dbpedia.org/resource/bridgette_wilson"], "right_only": ["http://dbpedia.org/resource/frank_mcrae", "http://dbpedia.org/resource/mercedes_ruehl"], "id": 146}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["the city by the bay; fog city; san fran; frisco ; the city that knows how ; baghdad by the bay ; the paris of the west"], "id": 147}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/russia", "http://dbpedia.org/resource/mongolia"], "id": 149}
+{"diff_type": "NEW_ANS_INCREASED", "right_only": ["http://dbpedia.org/resource/alice_comedies", "http://dbpedia.org/resource/mickey_mouse_clubhouse"], "id": 150}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/michael_turchin"], "id": 153}
+{"diff_type": "NEW_ANS_DECREASED", "left_only": ["http://dbpedia.org/resource/adolphe_monticelli"], "id": 155}
+{"diff_type": "OTHERS", "left_only": ["http://dbpedia.org/resource/john_a._roebling"], "right_only": ["http://dbpedia.org/resource/john_augustus_roebling"], "id": 159}
+{"diff_type": "OTHERS", "left_only": ["http://dbpedia.org/resource/l\u00e9on_millot", "http://dbpedia.org/resource/m\u00fcller-thurgau", "http://dbpedia.org/resource/carmine", "http://dbpedia.org/resource/gamay", "http://dbpedia.org/resource/muscat_blanc_\u00e0_petits_grains", "http://dbpedia.org/resource/gew\u00fcrztraminer", "http://dbpedia.org/resource/melon", "http://dbpedia.org/resource/muscat_(grape)"], "right_only": ["http://dbpedia.org/resource/roussanne", "http://dbpedia.org/resource/grenache_blanc", "http://dbpedia.org/resource/pinotage", "http://dbpedia.org/resource/graciano", "http://dbpedia.org/resource/counoise", "http://dbpedia.org/resource/tannat", "http://dbpedia.org/resource/gewurztraminer", "http://dbpedia.org/resource/chasselas", "http://dbpedia.org/resource/tinta_cao", "http://dbpedia.org/resource/vermentino", "http://dbpedia.org/resource/tempranillo", "http://dbpedia.org/resource/tinta_amarela", "http://dbpedia.org/resource/blaufr\u00e4nkisch", "http://dbpedia.org/resource/leon_millot", "http://dbpedia.org/resource/mourv\u00e8dre", "http://dbpedia.org/resource/caprettone", "http://dbpedia.org/resource/sylvaner", "http://dbpedia.org/resource/verdejo", "http://dbpedia.org/resource/albari\u00f1o", "http://dbpedia.org/resource/auxerrois_blanc", "http://dbpedia.org/resource/carm\u00e9n\u00e8re", "http://dbpedia.org/resource/la_crescent_(grape)", "http://dbpedia.org/resource/arneis", "http://dbpedia.org/resource/muscat_canelli", "http://dbpedia.org/resource/ehrenfelser", "http://dbpedia.org/resource/melon_de_bourgogne", "http://dbpedia.org/resource/marsanne", "http://dbpedia.org/resource/early_muscat", "http://dbpedia.org/resource/muller_thurgau", "http://dbpedia.org/resource/mondeuse_noire", "http://dbpedia.org/resource/trousseau_(grape)", "http://dbpedia.org/resource/durif", "http://dbpedia.org/resource/fiano_(grape)", "http://dbpedia.org/resource/gruner_veltliner", "http://dbpedia.org/resource/touriga_nacional", "http://dbpedia.org/resource/st_croix_(grape)", "http://dbpedia.org/resource/niagara_(grape)", "http://dbpedia.org/resource/muscat_ottonel", "http://dbpedia.org/resource/nebbiolo", "http://dbpedia.org/resource/montepulciano_(grape)", "http://dbpedia.org/resource/vignoles_(grape)", "http://dbpedia.org/resource/sauvignon_vert", "http://dbpedia.org/resource/marquette_(grape)", "http://dbpedia.org/resource/lagrein", "http://dbpedia.org/resource/malvasia", "http://dbpedia.org/resource/teroldego", "http://dbpedia.org/resource/frontenac_(grape)", "http://dbpedia.org/resource/aligot\u00e9", "http://dbpedia.org/resource/la_crosse_(grape)", "http://dbpedia.org/resource/petit_manseng", "http://dbpedia.org/resource/coda_di_volpe", "http://dbpedia.org/resource/traminette", "http://dbpedia.org/resource/kerner_(grape)", "http://dbpedia.org/resource/gamay_noir", "http://dbpedia.org/resource/cayuga_white", "http://dbpedia.org/resource/st._laurent_(grape)"], "id": 161}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/abraham_lincoln"], "id": 165}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["8848.0"], "id": 166}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/mountain_time_zone"], "id": 171}
+{"diff_type": "OTHERS", "left_only": ["http://dbpedia.org/resource/frederica_of_hanover"], "right_only": ["http://dbpedia.org/resource/frederika_of_hanover"], "id": 179}
+{"diff_type": "OTHERS", "left_only": ["http://dbpedia.org/resource/greenhorn,_oregon"], "right_only": ["http://dbpedia.org/resource/bakhdida"], "id": 182}
+{"diff_type": "OTHERS", "left_only": ["true"], "right_only": ["false"], "id": 187}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/kentucky"], "id": 189}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/kentucky"], "id": 190}
+{"diff_type": "NEW_ANS_DECREASED", "left_only": ["http://dbpedia.org/resource/foundation_and_chaos", "http://dbpedia.org/resource/foundation's_edge", "http://dbpedia.org/resource/foundation_and_empire", "http://dbpedia.org/resource/prelude_to_foundation", "http://dbpedia.org/resource/foundation_(isaac_asimov_novel)", "http://dbpedia.org/resource/foundation's_triumph", "http://dbpedia.org/resource/second_foundation", "http://dbpedia.org/resource/foundation's_fear"], "id": 195}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/newark,_new_jersey", "http://dbpedia.org/resource/elizabeth,_new_jersey", "http://dbpedia.org/resource/jersey_city,_new_jersey", "http://dbpedia.org/resource/paterson,_new_jersey"], "id": 196}
+{"diff_type": "OTHERS", "left_only": ["http://dbpedia.org/resource/museum_of_motherhood"], "right_only": ["http://dbpedia.org/resource/metropolitan_museum_of_art"], "id": 197}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/thomson_airways"], "id": 206}
+{"diff_type": "OTHERS", "left_only": ["http://dbpedia.org/resource/camp_nou"], "right_only": ["http://dbpedia.org/resource/vicente_calder\u00f3n_stadium"], "id": 209}
+{"diff_type": "NEW_ANS_EMPTY", "left_only": ["http://dbpedia.org/resource/marcus_adoro"], "id": 210}
+{"diff_type": "NEW_ANS_INCREASED", "right_only": ["1997-8-31"], "id": 213}
